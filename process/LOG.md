@@ -51,3 +51,4 @@
 - 2026-09-28 — L2 ✅ DONE (R3 OURS WINS). ALL 8 LEVELS WON. Checker now also scans mastery checks (L1–L4 story text all clean). Phase 4 started: cross-level consistency critic.
 - 2026-09-28 — Artifact v1 published: https://claude.ai/artifact/4ucgFCvxmrRcYTbzYehX5F (137 pages, 1.6MB, built by tools/build_site.py).
 - 2026-09-28 — Consistency critic: SHIP; 4 fixed by critic, placement Tier 3/4 re-split by lead. Artifact v2 published. PROJECT COMPLETE. Board #111 done.
+- 2026-09-28 — PUBLIC: pushed to https://github.com/oyekamal/english-reading-course (single clean commit on main, noreply author; full local history kept on branch build-history). GitHub Pages: https://oyekamal.github.io/english-reading-course/ . CC BY 4.0 content / MIT tools. UFLI full passages trimmed to excerpts.
