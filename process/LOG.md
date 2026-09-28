@@ -1,0 +1,53 @@
+# LOG — append-only timeline (newest at bottom). One line per event.
+
+- 2026-09-28 — Project started. Board task #111. Bar = synthesis of the research, not one program; output = markdown + artifact.
+- 2026-09-28 — Phase 1: 7 Sonnet research agents done → research/01–07 (~28k words, cited).
+- 2026-09-28 — Phase 2: DESIGN.md written (evidence verdicts, 12 rules, 8 levels, master phonics sequence, lesson template).
+- 2026-09-28 — Phase 3: 8 builders launched (L0–L7). Built so far: L0, L1, L2, L4, L5, L6, L7. L3 still building.
+- 2026-09-28 — tools/decodable.py written; first version was fooled (passed everything), fixed to flag untaught patterns.
+- 2026-09-28 — L0 R1 critic: REFERENCE WINS, 9 defects (ORF passages too hard for their norms). Builder fixed all 9. R2 critic running.
+- 2026-09-28 — L6 R1 critic: split; biggest gap = no topic-priming step (IES Rec 3A). DESIGN.md template updated for L5–L7. Builder fixing 7 defects.
+- 2026-09-28 — R1 critics running for L1, L2, L4, L5, L7.
+- 2026-09-28 — L7 R1 critic: REFERENCE WINS both (SHEG, COR), 7 defects; biggest = mastery check skips can-do #4 contracts. Also LOC miscitation + Palmes not neutral. Builder fixing.
+- 2026-09-28 — L5 R1 critic: morphology OURS WINS vs REWARDS; fluency REFERENCE WINS vs Rasinski FDL; 10 defects, biggest = Track B passages FK 10–17 vs A2–B1 target. Builder fixing.
+- 2026-09-28 — L2 R1 critic: REFERENCE WINS vs UFLI, 13 defects; biggest = "says"/"for" never taught but used everywhere; self-audits undercounted. Builder fixing, tool is now the gate.
+- 2026-09-28 — L4 R1 critic: REFERENCE WINS on L4.12/L4.14, OURS WINS on L4.15 off-ramp; 15 defects; biggest = systematic decodability leaks (small/al etc). Builder fixing.
+- 2026-09-28 — DESIGN.md: canonical per-lesson heart-word schedule L1–L3 (says/for added to L2); decodable.py mirrors it.
+- 2026-09-28 — L0 R2 critic: 7/9 fixes verified; PSC/PAST/DIBELS still narrowly win; 7 residual defects (research/07 self-contradiction, wrong rhyme anchors, IPA, 2s automaticity, DIBELS admin rules). Told builder: PAST-informed, not a PAST clone. Builder fixing R2.
+- 2026-09-28 — L6 R1 builder done (prime-the-topic in all 16, support/challenge, gates, word-list.md w/ Urdu cognates). Builder kept B2–C1 texts & re-described exit instead of rewriting — R2 critic asked to rule on it.
+- 2026-09-28 — L3 built (all 8 levels now exist). Checker 90–99%, real leaks (ay/ee/oo/ou/r-controlled early). 'her' added as L2 heart word. L3 R1 critic running.
+- 2026-09-28 — L7 R1 builder done (contract task in exam, citations fixed, Palmes reframed, 4-doc set + Revere engraving, live lateral reading, prime-the-topic). L7 R2 critic running.
+- 2026-09-28 — L1 R1 critic: REFERENCE WINS vs UFLI, 7 defects; biggest = pace (2–3 sounds/lesson vs UFLI 1 sound/2 days). Lead decision: split into 1-sound sittings (3–5 GPC/week per research/01) + adult fast track. Builder fixing.
+- 2026-09-28 — L0 R2 builder done (IPA added, 3 bad pseudowords fixed incl. real word 'rob', PAST-informed Stage 1, DIBELS admin rules, research/07 fixed). L0 R3 critic running.
+- 2026-09-28 — HANDOFF snapshot written to RESUME.md (session at 85%). 8 agents in flight — see RESUME.md table.
+- 2026-09-28 — L6 R2 critic: 7/7 R1 fixes verified; REFERENCE narrowly; biggest = avg sentence length 22–34 (rationalised as 'formula inflation'). Fix: rewrite L6.01–06 to 14–16 w/s ramping to 20; in-text stop-and-check Qs. Builder fixing R2.
+- 2026-09-28 — L3 R1 critic: REFERENCE WINS, 12 defects; root cause = DESIGN put all vowel teams before r-controlled (UFLI/RWI do ar first). LEAD DECISION: ar + or/ore moved into L3 (3.08/3.09), L3 now 18 lessons; L4.01/4.02 repurposed as ar/or extended + war/wor. DESIGN + checker updated. L3 builder fixing; L4 builder notified.
+- 2026-09-28 — L7 R2 critic: OURS WINS lateral reading (vs COR); history sourcing tie→REFERENCE; biggest = Palmes timing wrong (critics conflicted). Lead decision: present Palmes' own testimony + conflicting accounts as the teaching point. Builder fixing R2.
+- 2026-09-28 — L0 R3 critic: OURS WINS vs PSC+DIBELS (first level to win). 4 small defects (shute real word, Wanzek in guide file, intergop). Builder doing final fixes + sibling sweep. After that L0 = DONE.
+- 2026-09-28 — SPEND LIMIT hit: all 8 builders (+L6 sub-agents) died mid-edit. Partial edits committed. Resuming builders in 2 waves of 4 to avoid re-hitting the limit.
+- 2026-09-28 — L7 R2 builder done (Palmes own testimony from bostonmassacre.net trial transcript, Adams 'passions' fixed vs Founders Online, Pelham 2nd visual, constructed labels). L7 R3 critic running.
+- 2026-09-28 — L0 R3 builder done: fixed shute (real word), Wanzek mis-citation in guide-tutors-parents.md, intergop (wrong prefix), rhyme/glide inconsistency. Sibling sweep across all 40 Stage 3 pseudowords found 3 more real words missed by prior rounds (gan, nob, glout) — all replaced. Repo-wide Wanzek grep found one out-of-scope sibling in course/level-4/lessons/L4.16 (flagged, not fixed — belongs to L4 builder). L0 placement instrument now stable across 3 critic rounds; 20/20 defects closed total.
+- 2026-09-28 — L0 ✅ DONE: won R3 vs PSC+DIBELS, 20/20 defects closed (sweep caught gan/nob/glout real words). Note: stray Wanzek citation in L4.16 → L4 builder.
+- 2026-09-28 — L7 ✅ DONE: R3 OURS WINS vs Digital Inquiry Group Boston Massacre lesson + COR; Palmes/Adams/Pelham verified vs primary sources; 0 mandatory defects.
+- 2026-09-28 — L6 R2 builder done: ASL L6.01–09 from 22–33 → 11–17 w/s, FK 6.5–9.7; stop-and-check Qs all 16; ASL footers. L6 R3 critic running.
+- 2026-09-28 — L1 R1 builder done: 1-sound sittings + adult fast track, car removed, Nat fixed; checker clean. L1 R2 critic running.
+- 2026-09-28 — L6 R3 critic: OURS WINS vs CKLA/CKHG Grade 4; 1 minor defect (5 oversize sentences, max 61w). Builder splitting; then L6 DONE.
+- 2026-09-28 — L5 R1 builder done: all 18 Track B passages FK 3.8–5.8; 10 defects fixed; now fixing Track A FK (one was 12.3) before R2 critic.
+- 2026-09-28 — L3 R1 builder done: 18-lesson resequence (ar 3.08, or 3.09), canonical heart words, ar exception removed, checker 100% 3.01–3.17. L3 R2 critic running.
+- 2026-09-28 — L1 ✅ DONE: R2 OURS WINS vs UFLI (pace fixed); 4 residual defects fixed by lead directly (kiss→hugs, /31 row, sitting times).
+- 2026-09-28 — L6 ✅ DONE (R3 OURS WINS, 19 overlong sentences split, max ≤25w in L6.01–09). L3 R2: REFERENCE narrowly (soft c/g leaks, stale H1s) → lead fixed directly → R3 critic running. L4 builder resumed.
+- 2026-09-28 — L5 R1 builder complete: Track A FK 2.1–4.7, Track B FK 3.8–5.8. L5 R2 critic running.
+- 2026-09-28 — L5 R2 critic running. L4 R1 builder done (checker 100%, L4.12/14 fixed, 4 real-word pseudowords fixed via aspell, repurposed 4.01/4.02); L4 R2 critic running.
+- 2026-09-28 — L3 R3 critic: REFERENCE narrowly; busy/people never taught; price leak; UFLI prose richer (subordinate clauses). Builder fixing R3.
+- 2026-09-28 — L2 R1 builder done (canonical heart words 29, audits = tool output, mastery bugs fixed, 3 real-word pseudowords replaced). Checker false positives (string, buses) fixed. L2 R2 critic running.
+- 2026-09-28 — L5 R2 critic: OURS WINS both (REWARDS morphology, Rasinski FDL fluency). 2 medium fixes (L5.14 prose, daily 'Perform it'). Builder doing; then L5 DONE.
+- 2026-09-28 — L4 R2 critic: REFERENCE narrowly (parity on structure); 5 phonics fact/sound leaks (robin, complicate, school, ache, touch). Builder fixing + full pronunciation pass.
+- 2026-09-28 — L2 R2 critic: REFERENCE narrowly (y-as-vowel leak incl. mastery gate). Lead fixed tool + 6 occurrences directly; L2 R3 critic next.
+- 2026-09-28 — L3 R3 builder done (busy/people slot fixed, price→prize, subordinate clauses L3.05–3.17). L3 R4 critic running.
+- 2026-09-28 — L5 ✅ DONE (R2 OURS WINS both; L5.14 prose + 'Perform it' step in 13 sessions).
+- 2026-09-28 — L3 ✅ DONE: R4 OURS WINS overall vs UFLI (adult track decisive; kid-only prose still slightly behind UFLI — honest caveat). Nit fixed by lead.
+- 2026-09-28 — L4 R2 builder done (robin/animal/school/ache/touch + IPA pass via eng-to-ipa & CMU, 2 extra errors found). L4 R3 critic running.
+- 2026-09-28 — L4 ✅ DONE: R3 OURS WINS vs UFLI decodables L65–68; 'question' -tion fix by lead.
+- 2026-09-28 — L2 ✅ DONE (R3 OURS WINS). ALL 8 LEVELS WON. Checker now also scans mastery checks (L1–L4 story text all clean). Phase 4 started: cross-level consistency critic.
+- 2026-09-28 — Artifact v1 published: https://claude.ai/artifact/4ucgFCvxmrRcYTbzYehX5F (137 pages, 1.6MB, built by tools/build_site.py).
+- 2026-09-28 — Consistency critic: SHIP; 4 fixed by critic, placement Tier 3/4 re-split by lead. Artifact v2 published. PROJECT COMPLETE. Board #111 done.
